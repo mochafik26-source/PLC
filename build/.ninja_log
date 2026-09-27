@@ -1,0 +1,12 @@
+# ninja log v7
+3	55	1790538217870354516	MyQtApp_autogen/timestamp	8bdedf5233109365
+3	55	1790538217870354516	MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+3	55	1790538217870354516	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/timestamp	8bdedf5233109365
+3	55	1790538217870354516	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+59	77	1790537059858195450	CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o	4a0a64b6236a7885
+49	3270	1790538171466082636	CMakeFiles/MyQtApp.dir/src/main.cpp.o	477cf94af72b6baa
+3270	3618	1790538174687100561	MyQtApp	3e38116768c1739e
+3	47	1790538248647550248	MyQtApp_autogen/timestamp	8bdedf5233109365
+3	47	1790538248647550248	MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+3	47	1790538248647550248	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/timestamp	8bdedf5233109365
+3	47	1790538248647550248	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365

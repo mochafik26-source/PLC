@@ -1,0 +1,5 @@
+/home/mohamed/Projects/Hardware/PLC/build/CMakeFiles/MyQtApp.dir
+/home/mohamed/Projects/Hardware/PLC/build/CMakeFiles/edit_cache.dir
+/home/mohamed/Projects/Hardware/PLC/build/CMakeFiles/rebuild_cache.dir
+/home/mohamed/Projects/Hardware/PLC/build/CMakeFiles/MyQtApp_autogen_timestamp_deps.dir
+/home/mohamed/Projects/Hardware/PLC/build/CMakeFiles/MyQtApp_autogen.dir

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mohamed/Projects/Hardware/PLC/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
