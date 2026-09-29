@@ -1,12 +1,14 @@
 # ninja log v7
-3	55	1790538217870354516	MyQtApp_autogen/timestamp	8bdedf5233109365
-3	55	1790538217870354516	MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
-3	55	1790538217870354516	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/timestamp	8bdedf5233109365
-3	55	1790538217870354516	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+3	41	1790720122160178061	MyQtApp_autogen/timestamp	8bdedf5233109365
+3	41	1790720122160178061	MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+3	41	1790720122160178061	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/timestamp	8bdedf5233109365
+3	41	1790720122160178061	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
 59	77	1790537059858195450	CMakeFiles/MyQtApp.dir/MyQtApp_autogen/mocs_compilation.cpp.o	4a0a64b6236a7885
-49	3270	1790538171466082636	CMakeFiles/MyQtApp.dir/src/main.cpp.o	477cf94af72b6baa
-3270	3618	1790538174687100561	MyQtApp	3e38116768c1739e
-3	47	1790538248647550248	MyQtApp_autogen/timestamp	8bdedf5233109365
-3	47	1790538248647550248	MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
-3	47	1790538248647550248	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/timestamp	8bdedf5233109365
-3	47	1790538248647550248	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+44	3266	1790719741216403191	CMakeFiles/MyQtApp.dir/src/main.cpp.o	477cf94af72b6baa
+3266	3612	1790719744437672513	MyQtApp	3e38116768c1739e
+3	45	1790720241536649058	MyQtApp_autogen/timestamp	8bdedf5233109365
+3	45	1790720241536649058	MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+3	45	1790720241536649058	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/timestamp	8bdedf5233109365
+3	45	1790720241536649058	/home/mohamed/Projects/Hardware/PLC/build/MyQtApp_autogen/mocs_compilation.cpp	8bdedf5233109365
+45	3211	1790720241578651613	CMakeFiles/MyQtApp.dir/src/main.cpp.o	477cf94af72b6baa
+3212	3546	1790720244744844112	MyQtApp	3e38116768c1739e
